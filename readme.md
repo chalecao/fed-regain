@@ -46,4 +46,4 @@
 
 ## 知识图谱
 前端增长大宝剑-知识图谱, 详细可以用xmind打开课件细看。持续更新。。。
-![前端增长大宝剑](https://haomou.oss-cn-beijing.aliyuncs.com/upload/2019/07/outline.png?x-oss-process=image/format,webp)
+![前端增长大宝剑](./course.jpg)
