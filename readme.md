@@ -3,8 +3,12 @@
 精心打造全新课程，欢迎吐槽！反馈宝贵意见！
 
 在线课程： 
-[网易云课堂课程](https://study.163.com/course/courseMain.htm?courseId=1209400904)      
+
+[网易云课堂课程](https://study.163.com/course/courseMain.htm?courseId=1209400904)    
+
 [思否课堂](https://segmentfault.com/ls/1650000019681091)
+
+[官方博客：fed123.com](https://www.fed123.com/fed-regain)
 
 ## 课程说明
 前端知识点很多，很细碎。一般同学都是死记硬背一些知识点。机灵的同学会背一些案例，更聪明的同学会背一下原理，理解下大概。奈何时光催人老，再好的记忆也会有忘记的时候，况且人生的不同阶段所侧重的点也不一样。
