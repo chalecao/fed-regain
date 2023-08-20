@@ -8,7 +8,7 @@
 
 [思否课堂](https://segmentfault.com/ls/1650000019681091)
 
-[官方博客：fed123.com](https://www.fed123.com/fed-regain)
+[官方博客：w3cdoc.com](https://www.w3cdoc.com/course/%E5%89%8D%E7%AB%AF%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6%E7%9F%A5%E8%AF%86%E7%82%B9/)
 
 ## 课程说明
 前端知识点很多，很细碎。一般同学都是死记硬背一些知识点。机灵的同学会背一些案例，更聪明的同学会背一下原理，理解下大概。奈何时光催人老，再好的记忆也会有忘记的时候，况且人生的不同阶段所侧重的点也不一样。
